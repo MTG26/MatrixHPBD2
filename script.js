@@ -21,8 +21,8 @@ const texts = [
   "🎂🎂",
   "26-09-2025", //Day of birth
   "HAPPY BIRTHDAY To YOU", 
-  "Ngọc Nhi˚ᵀᴰ˚",
-  "Sinh nhật zui zẻ nho",//Your Name
+  "Ngọc Nhi˚ᵀᴰ˚", //Your Name
+  "Sinh nhật zui zẻ nho",
   "🎂🐒❤️",
 
 ];
@@ -211,6 +211,7 @@ lastChangeTime = Date.now();
 lastCharTime = Date.now();
 
 setInterval(drawMatrixRain, 50);
+
 
 
 
