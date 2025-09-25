@@ -17,13 +17,13 @@ const drops = Array(columns).fill(1);
 const texts = [
   "안녕하세요",
   "A nhong a xi nhô chụy",
-  "2",
+  "3",
   "1",
-  "🎂",
+  "🎂🎂",
   "26-09-2025", //Day of birth
   "HAPPY BIRTHDAY To YOU", 
-  "Thanh Di˚ᴺᴺ˚", //Your Name
-  "❤️🐒❤️",
+  "Ngọc Nhi˚ᵀᴰ˚", //Your Name
+  "🎂🐒❤️",
 
 ];
 
@@ -211,5 +211,6 @@ lastChangeTime = Date.now();
 lastCharTime = Date.now();
 
 setInterval(drawMatrixRain, 50);
+
 
 
